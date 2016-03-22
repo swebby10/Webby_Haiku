@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * 
  *
- * @author Steve Webby
+ * @author Steve Webby Jr
  *
  */
 /*
